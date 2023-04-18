@@ -1,0 +1,60 @@
+---
+tags: 
+created: 2022-11-16, 20:48
+modified: 2023-03-21, 17:11
+---
+
+# Mixing engineers I admire
+- Ed Cherney
+	- Bonnie Raitt's *Luck of the Draw*
+- Tom Schick
+	- Joan Shelley's self-titled
+	- Wilco & Jeff Tweedy
+	- Iron & Wine's *Beast Epic*
+	- Norah Jones *Not Too Late*
+- Chris Shaw
+	- Death Cab's *Plans*
+	- Weezer's *Blue Album*
+	- Nada Surf's *The Weight Is a Gift*
+- Peter Katis
+	- The National's *High Violet*, *I Am Easy to Find*, lots of others
+	- Gang of Youths' *Go Farther in Lightness*
+	- The Paper Kites' *On the Corner Where You Live*
+	- Producer on The Swell Season's *Strict Joy*
+- Shawn Everett
+	- The War on Drugs' *A Deeper Understanding*
+	- Brittany Howard's *Jaime*
+	- Kacey Musgraves's *Golden Hour*
+	- Lucius's *Wildewoman*, self-titled
+	- Emma Louise's *Lilac Everything*
+	- Big Thief's *Dragon New Warm Mountain I Believe in You*
+- Brian Joseph
+	- Anna Tivel's *Outsiders*
+	- Bon Iver's self-titled
+- D. James Goodwin
+	- Bonnie Light Horseman's self-titled
+	- Kevin Morby's *Oh My God*
+- Andy Wallace
+	- Dashboard Confessional's *Dusk and Summer*
+	- Jeff Buckley's *Grace*
+	- Nirvana's *Nevermind*
+	- Rage Against the Machine's *Evil Empire*
+- Alex Bush
+	- Damien Jurado's *The Horizon Just Laughed*, *In the Shape of a Storm*
+- Nigel Godrich
+	- Beck's *Sea Change*
+	- Radiohead's *In Rainbows*, *Kid A*, *OK Computer*, *The Bends*
+- Ben Baptie
+	- Moses Sumney's *Aromanticism*
+- David Boucher (has done a lot of my favs, but he tends to have slightly too much hi mids for my taste)
+	- Randy Newman's *Dark Matter* (and a lot of other stuff)
+	- Madison Cunningham's *Who Are You Now*
+	- Andrew Bird's *Armchair Apocrypha* and *Noble Beast*
+	- Punch Brothers' *Hell on Church Street*
+- Marc Daniel Nelson
+- Andrew Sarlo
+	- Courtney Marie Andrews's *Old Flowers*
+	- Big Thief's *Two Hands*
+- Richie Biggs
+	- Jon Foreman's seasons EPs
+	- The Civil Wars' self-titled

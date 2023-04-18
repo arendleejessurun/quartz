@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Arend Lee Jessurun
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -21,9 +21,7 @@ description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "🪴 Quartz 3.3"
+  "Arend's Notes"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: GitHub
-    link: https://github.com/jackyzha0
+  - link_name: Website
+    link: https://arendleejessurun.com
