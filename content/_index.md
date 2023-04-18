@@ -3,6 +3,15 @@ title: 🪴 Quartz 3.3
 enableToc: false
 ---
 
+Test!
+
+# 24 Creativity 💡
+- [[24.01 Being Your Own Creative Self 📣]]
+- [[24.02 Creative Block and Creative Flow 🚰]]
+- [[24.03 Creativity and Cultural Change 🕊]]
+- [[24.04 Creative Inspiration ✨]]
+- [[24.05 Practical Creativity 💪]]
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search]]

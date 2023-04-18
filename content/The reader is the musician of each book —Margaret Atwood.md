@@ -1,0 +1,5 @@
+---
+tags: quote 
+---
+
+"Books are frozen voices, in the same way that musical scores are frozen music. The score is a way of transmitting the music to someone who can play it, releasing it into the air where it can once more be heard. And the black alphabet marks on the page represent words that were once spoken, if only in the writer’s head. They lie there inert until a reader comes along and transforms the letters into living sounds. The reader is the musician of the book: each reader may read the same text, just as each violinist plays the same piece, but each interpretation is different." —Margaret Atwood, found via [The writer is the composer, the reader is the musician - Austin Kleon](https://austinkleon.com/2023/04/06/the-writer-is-the-composer-the-reader-is-the-musician-of-the-book/)
